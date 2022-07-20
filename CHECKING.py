@@ -12,7 +12,7 @@ Code
 
 Issues
 
-Pull requests
+
 
 Actions
 
